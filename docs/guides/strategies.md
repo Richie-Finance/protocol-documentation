@@ -1,4 +1,4 @@
-# How Best to Make Money
+# Yield Strategy Guide
 
 There is no single strategy that performs best in every market condition. Richie Finance offers several ways to participate, and the better approach depends on the **CASH/PDAI TWAP**, token prices, liquidity, PSM fees, lock periods, and your tolerance for risk.
 

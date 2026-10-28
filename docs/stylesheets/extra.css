@@ -34,7 +34,8 @@
   font-weight: 700;
   letter-spacing: 0.055em;
   line-height: 1.25;
-  margin-top: 0.7rem;
+  margin-top: 1.15rem;
+  padding-top: 0.2rem;
 }
 
 .md-sidebar--primary .md-nav__item--section > .md-nav__link:hover,

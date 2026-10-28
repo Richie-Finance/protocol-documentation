@@ -20,6 +20,8 @@ This guide organizes the main opportunities by CASH's relationship to its target
 
 ## Zone 1: CASH TWAP at or above 1.01
 
+![Above-peg yield strategy](../media/yield-strategy-above-peg.png)
+
 When the six-hour TWAP is at least 1.01 PDAI, the protocol is eligible to mint new CASH during the next epoch. This is the environment in which RICH staking has the clearest direct reward opportunity.
 
 ### Potential approach
@@ -39,6 +41,8 @@ When the six-hour TWAP is at least 1.01 PDAI, the protocol is eligible to mint n
 
 ## Zone 2: CASH TWAP from 1.00 to below 1.01
 
+![At-peg yield strategy](../media/yield-strategy-at-peg.png)
+
 In this range CASH is close to its target, but normal expansion is paused. Yacht Club participants should not assume that the next epoch will mint CASH.
 
 ### Potential approach
@@ -57,6 +61,8 @@ In this range CASH is close to its target, but normal expansion is paused. Yacht
 - Pool APR is variable and should not be treated as a fixed interest rate.
 
 ## Zone 3: CASH TWAP below 1.00
+
+![Below-peg yield strategy](../media/yield-strategy-below-peg.png)
 
 Below 1.00, normal CASH expansion is paused and the protocol can make funded CASH-to-PDAI redemptions available. This zone can create an arbitrage opportunity, but it also carries the greatest peg and liquidity risk.
 

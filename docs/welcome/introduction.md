@@ -24,8 +24,7 @@ This is what we mean by **peg defense through offense**: build revenue capacity 
 
 Richie is being developed from the tried and trusted Tomb Finance and Snake Finance protocols exhibited on other EVM chains. Richie's focus however is on bolstering PDAI liquidity on PulseChain, active treasury development, and revenue-supported peg defense.
 
-{% hint style="warning" %}
-**Protocol security & safety.** Solidity contracts and DeFi are inherently experimental in nature. All protocols pose a potential code risk.
+!!! warning
+    **Protocol security & safety.** Solidity contracts and DeFi are inherently experimental in nature. All protocols pose a potential code risk.
 
-Richie Finance mitigates contract risk significantly by using only tried and true battle tested contracts that have safely held billions of dollars in TVL over years without exploit through many Tomb forks including the revised Tomb Finance deployed on Fantom network in 2021. In addition to this the contracts have been reviewed by several frontier model AI agents including those from top tier DeFi security researchers such as [Pashov DeFi Audit Skill](https://github.com/pashov/skills).
-{% endhint %}
+    Richie Finance mitigates contract risk significantly by using only tried and true battle tested contracts that have safely held billions of dollars in TVL over years without exploit through many Tomb forks including the revised Tomb Finance deployed on Fantom network in 2021. In addition to this the contracts have been reviewed by several frontier model AI agents including those from top tier DeFi security researchers such as [Pashov DeFi Audit Skill](https://github.com/pashov/skills).

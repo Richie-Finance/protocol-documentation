@@ -1,0 +1,50 @@
+:root {
+  --md-primary-fg-color: #061d33;
+  --md-primary-fg-color--light: #0b3658;
+  --md-primary-fg-color--dark: #031321;
+  --md-accent-fg-color: #d9aa45;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #031524;
+  --md-default-fg-color: #f3ead8;
+  --md-default-fg-color--light: #c6d2dc;
+  --md-typeset-a-color: #e0b95f;
+  --md-code-bg-color: #071f34;
+}
+
+.md-header,
+.md-tabs {
+  background: linear-gradient(135deg, #031321 0%, #082a47 70%, #0d3a5b 100%);
+  border-bottom: 1px solid rgba(224, 185, 95, 0.5);
+}
+
+.md-header__title,
+.md-tabs__link,
+.md-nav__title {
+  font-family: Georgia, "Times New Roman", serif;
+  letter-spacing: 0.04em;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  color: #f6ead0;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.md-typeset h1 {
+  border-bottom: 1px solid rgba(224, 185, 95, 0.35);
+  padding-bottom: 0.35em;
+}
+
+.md-typeset img {
+  border: 1px solid rgba(224, 185, 95, 0.45);
+  border-radius: 0.6rem;
+  box-shadow: 0 0.8rem 2rem rgba(0, 0, 0, 0.28);
+}
+
+.md-footer {
+  background: #020f1b;
+  border-top: 1px solid rgba(224, 185, 95, 0.35);
+}

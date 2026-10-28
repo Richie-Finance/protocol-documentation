@@ -22,8 +22,7 @@ When CASH trades above its peg to PDAI new CASH is minted in order to increase s
 
 When CASH trades under the peg of 1:1 during a full epoch no new CASH is minted and instead the treasury will implement supply contraction methods which include utilizing available reserves and income for CASH redemptions to PDAI at a 1:1 ratio. It may also implement methods to increase the demand of CASH through the incentivization of new pools and yield opportunities. The goal is to reduce circulating supply and increase demand of CASH to meet the current market demand and push CASH back to the peg value of 1:1.
 
-{% hint style="warning" %}
-CASH does not carry a promise of redemption for one PDAI. It is not fully collateralized, and treasury asset values should not be treated as a guaranteed CASH price floor.
-{% endhint %}
+!!! warning
+    CASH does not carry a promise of redemption for one PDAI. It is not fully collateralized, and treasury asset values should not be treated as a guaranteed CASH price floor.
 
 See [supply and epochs](supply-and-epochs.md) and [peg defense](../mechanisms/peg-defense.md).

@@ -33,9 +33,8 @@ RICH liquidity incentives help attract participation and build deep PDAI liquidi
 
 The ambition is a protocol with more tools to work with across market cycles and benefit the Pulsechain ecosystem. Those tools carry risk, and their effectiveness depends on actual revenue, accessible capital, and market conditions.
 
-{% hint style="warning" %}
-**A target peg is not a guarantee.** CASH is not a fully collateral-backed stablecoin. CASH can trade well above or below its target based on market demand.
-{% endhint %}
+!!! warning
+    **A target peg is not a guarantee.** CASH is not a fully collateral-backed stablecoin. CASH can trade well above or below its target based on market demand.
 
 ## Start here
 

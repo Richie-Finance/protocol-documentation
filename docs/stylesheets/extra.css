@@ -26,6 +26,22 @@
   letter-spacing: 0.04em;
 }
 
+/* Make sidebar category labels visually distinct from page links. */
+.md-sidebar--primary .md-nav__item--section > .md-nav__link {
+  color: #e4b95b;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.055em;
+  line-height: 1.25;
+  margin-top: 0.7rem;
+}
+
+.md-sidebar--primary .md-nav__item--section > .md-nav__link:hover,
+.md-sidebar--primary .md-nav__item--section > .md-nav__link:focus {
+  color: #f3d58c;
+}
+
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3 {

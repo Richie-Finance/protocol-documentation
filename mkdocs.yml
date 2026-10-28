@@ -7,6 +7,8 @@ repo_name: Richie-Finance/protocol-documentation
 theme:
   name: material
   language: en
+  logo: assets/richie-finance-logo.png
+  favicon: assets/richie-finance-logo.png
   palette:
     scheme: slate
     primary: custom

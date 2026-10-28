@@ -26,6 +26,18 @@
   letter-spacing: 0.04em;
 }
 
+.md-sidebar--primary .md-sidebar__scrollwrap::before {
+  background: url("../assets/richie-finance-wordmark.png") center / contain no-repeat;
+  content: "";
+  display: block;
+  height: 5.2rem;
+  margin: 0.25rem 0.75rem 1.1rem;
+}
+
+.md-sidebar--primary .md-nav--primary > .md-nav__title {
+  display: none;
+}
+
 /* Make sidebar category labels visually distinct from page links. */
 .md-sidebar--primary .md-nav__item--section > .md-nav__link {
   color: #e4b95b;

@@ -8,7 +8,7 @@
 | PLS | PulseChain's native asset, used for gas and the PSM payment |
 | Peg | A target market-price relationship; here, one PDAI per CASH |
 | Expansion | Issuance of additional CASH when CASH remains above 1.01 peg over the last epoch |
-| Contraction | A below-peg period in which expansion is paused and redemptions may open |
+| Contraction | A below-peg period in which expansion is paused and redemptions are profitable |
 | Epoch | A 6 hour recurring interval for evaluating protocol supply policy |
 | TWAP | Time-weighted average price, calculated from observations over a 6 hour period |
 | PSM | Peg Stability Module; Richie's fee on RICH farm rewards, paid in PLS |

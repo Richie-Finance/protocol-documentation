@@ -25,7 +25,7 @@ Richie connects PDAI liquidity growth with treasury development and yield. The p
 2. To claim these RICH rewards stakers must pay a PSM fee in PLS, this fee is 30% of the value of their claimable RICH rewards.
 3. PLS earned by the PSM contributes to CASH backing reserves and allows the treasury to establish revenue-generating positions.
 4. Treasury activity aims to produce income that can be retained, reinvested and used for peg defense and CASH redemptions to PDAI.
-5. When the price of 1 CASH is above 1 PDAI, the protocol mints new CASH to RICH stakers in The Yacht Club. Below peg CASH redemptions to PDAI at 1:1 open for users.
+5. When the price of 1 CASH is above 1 PDAI, the protocol mints new CASH to RICH stakers in The Yacht Club. Below peg CASH redemptions to PDAI at 1:1 are profitable for users to arbitrage.
 6. Treasury rebates offer discounted RICH tokens in exchange for whitelisted Pulsechain assets. These assets are used to bolster the treasury and CASH redemptions.
 
 ## The role of the market

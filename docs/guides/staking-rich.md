@@ -8,7 +8,7 @@ If CASH remains above the peg of 1.01 PDAI during an epoch then new CASH will be
 
 ## During contraction below peg
 
-If CASH remains below the peg of 1.01 PDAI during an epoch then no new CASH will be minted to RICH stakers. When the TWAP is below 1.00 redemptions will open and you may redeem CASH for PDAI at a ratio of 1:1.
+If CASH remains below the peg of 1.01 PDAI during an epoch then no new CASH will be minted to RICH stakers. When the TWAP is below 1.00 redemptions are profitable and you may redeem CASH for PDAI at a ratio of 1:1.
 
 ## Exiting
 

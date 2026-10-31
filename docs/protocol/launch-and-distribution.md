@@ -9,7 +9,7 @@ At deployment only 1 token of RICH and CASH is minted which is used to create th
 
 ## Genesis participation
 
-Genesis is the fairest method to distribute the initial supply of CASH among active participants in the protocol. Over 3 days users stake whitelisted Pulsechain assets and earn the initial 50,000,000 supply of CASH, this supply distributes linearly over the 3 day period. Genesis deposits carry a 1% fee however the yield in CASH generated during this 3 day genesis aims to be much larger than this fee and is not taxed.
+Genesis is the fairest method to distribute the initial supply of CASH among active participants in the protocol. Over 3 days users stake whitelisted Pulsechain assets and earn the initial 40,176,000 supply of CASH, this supply distributes linearly over the 3 day period. Genesis deposits carry a 1% fee however the yield in CASH generated during this 3 day genesis aims to be much larger than this fee and is not taxed.
 
 Users are free to deposit, withdraw and claim rewards at anytime during the genesis and hold complete ownership of their assets at all times. The 1% genesis fee is sent to the treasury and used to fund the initial backing of CASH used for revenue production and peg defense.
 

@@ -6,7 +6,7 @@ A set of contracts do this based on code values, the admins have limited ability
 
 | Area | Relevant powers |
 | --- | --- |
-| CASH Minting | Only the treasury contract can mint new CASH based on the last epoch's TWAP value, it does this each epoch via a public available call. The admin can set the expansion percentage to control inflation or incentivize staking however they cannot mint CASH tokens themselves. |
+| CASH Minting | Only the treasury contract can mint new CASH based on the last epoch's TWAP value, it does this each epoch via a public available call. The admin can set the expansion percentage to control inflation or incentivize staking however they cannot mint CASH tokens themselves. After a successful launch of several epoch mints without issue we will rennounce the CASH token ownership which will fully close any admin changes in the CASH token and lock its minting to the treasury contract. |
 | RICH Minting | After launch RICH tokens are fully minted and sent to The Marina staking pool, there is no mint function on the RICH token. No more can ever be minted. These tokens stream to stakers in The Marina contract linearly over 1 year. |
 | The Marina & Genesis Pools | Admins can add new pools and change reward weightings of existing pools, this will be communicated on official socials. Admins cannot remove rewards you have already earned and cannot remove CASH or RICH tokens from these pools. |
 | RICH Staking | Admins can change the reward lockups up to a hardcoded maximum of 56 epochs |

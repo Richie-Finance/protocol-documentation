@@ -19,6 +19,12 @@ Verified protocol addresses and links are below. All contracts will be deployed 
 | Treasury wallets and deployed positions | PulseChain | Pending confirmation |
 | Treasury rebates markets | PulseChain | Pending confirmation |
 
+## Security review
+
+* [Richie Finance Smart Contract Security Review (PDF)](<https://github.com/Richie-Finance/solidity-contracts/blob/main/audits/richie-finance-security-review-2026-11-02.pdf>) — Published 2 November 2026. This one-pass AI-assisted Solidity review used the open-source Pashov Solidity Auditor workflow and includes six findings, two manual-review leads, and Richie Finance's documented responses.
+
+The report is a point-in-time review of the audited revision. It does not guarantee the absence of vulnerabilities or replace independent manual auditing, testing, monitoring, bug bounties, or operational controls.
+
 ## Website and Dapp
 
 * [Richie Finance Website](<https://richie.finance/>) — The main Richie Finance website.

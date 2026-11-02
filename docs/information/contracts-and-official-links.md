@@ -19,11 +19,14 @@ Verified protocol addresses and links are below. All contracts will be deployed 
 | Treasury wallets and deployed positions | PulseChain | Pending confirmation |
 | Treasury rebates markets | PulseChain | Pending confirmation |
 
-## Security review
+## Security reviews
 
-* [Richie Finance Smart Contract Security Review (PDF)](<https://github.com/Richie-Finance/solidity-contracts/blob/main/audits/richie-finance-security-review-2026-11-02.pdf>) — Published 2 November 2026. This one-pass AI-assisted Solidity review used the open-source Pashov Solidity Auditor workflow and includes six findings, two manual-review leads, and Richie Finance's documented responses.
+* [Smart Contract Security Review — Pashov workflow (PDF)](<https://github.com/Richie-Finance/solidity-contracts/blob/main/audits/richie-finance-security-review-2026-11-02.pdf>) — Published 2 November 2026. This one-pass AI-assisted Solidity review used the open-source Pashov Solidity Auditor workflow and includes six findings, two manual-review leads, and Richie Finance's documented responses.
+* [Contract Source Review — Grok 4.7 (PDF)](<https://github.com/Richie-Finance/solidity-contracts/blob/main/audits/richie-finance-contract-review-2026-11-03.pdf>) — Published 3 November 2026. This AI-assisted source review covers commit `984795a`, records 13 informational review items with Richie Finance's resolutions, and includes a pre-deployment checklist.
 
-The report is a point-in-time review of the audited revision. It does not guarantee the absence of vulnerabilities or replace independent manual auditing, testing, monitoring, bug bounties, or operational controls.
+Both reports are available from the [Richie Finance audit hub](<https://richie.finance/audit>).
+
+These reports are point-in-time reviews of their stated source revisions. They do not guarantee the absence of vulnerabilities or replace independent manual auditing, testing, monitoring, bug bounties, or operational controls.
 
 ## Website and Dapp
 

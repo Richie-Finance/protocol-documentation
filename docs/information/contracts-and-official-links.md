@@ -14,11 +14,12 @@ Verified protocol addresses and links are below. All contracts will be deployed 
 | CASH/PDAI LP | PulseChain | 0x0faF2d31F96da1cB05A50205D087fC84a03C9f44 |
 | RICH/PLS LP | PulseChain | 0x50FDfC2E2072403Fff9371E6075C60Bb739B0ABC |
 | Genesis Farm | PulseChain | [0x330876824A3b91aeC9048d1d55724aFff86C9682](<https://repo.sourcify.dev/369/0x330876824A3b91aeC9048d1d55724aFff86C9682>) |
-| The Marina farms | PulseChain | Pending deployment confirmation |
-| RICH staking | PulseChain | Pending deployment confirmation |
-| CASH/PDAI oracle | PulseChain | Pending deployment confirmation |
-| PSM collection destination | PulseChain | Pending deployment confirmation |
-| Treasury wallets and deployed positions | PulseChain | Pending confirmation |
+| The Marina farms | PulseChain | [0x3E623d4Da7485a51c3a4Be5E12468FdAcdcC8e75](<https://repo.sourcify.dev/369/0x3E623d4Da7485a51c3a4Be5E12468FdAcdcC8e75>) |
+| RICH staking | PulseChain | [0x27212c91fDE4d95e2F83B5Cbd21ce5A0CAf794ee](<https://repo.sourcify.dev/369/0x27212c91fDE4d95e2F83B5Cbd21ce5A0CAf794ee>) |
+| Treasury Contract | PulseChain | [0x2F2824f3BD866228A7bBe25ee7FB2Ef7Ed6EbeD9](<https://repo.sourcify.dev/369/0x2F2824f3BD866228A7bBe25ee7FB2Ef7Ed6EbeD9>) |
+| CASH/PDAI oracle | PulseChain | [0x3C8E5547c7d53B1ab163F2e04BBC6fb60BBE1fE4](<https://repo.sourcify.dev/369/0x3C8E5547c7d53B1ab163F2e04BBC6fb60BBE1fE4>)  |
+| Redemption Contract | PulseChain | [0xBE8D53384B4017D20399630833F4458678f2c806](<https://repo.sourcify.dev/369/0xBE8D53384B4017D20399630833F4458678f2c806>) |
+| Treasury wallet | PulseChain | 0x1EA35487AE62322F61f4C0F639a598d9eEB2F340 |
 | Treasury rebates markets | PulseChain | Pending confirmation |
 
 ## Security Audits

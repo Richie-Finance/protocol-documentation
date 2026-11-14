@@ -6,7 +6,7 @@ The purpose is to help build productive protocol capital through an asset-for-to
 
 ## The rebate model
 ![Treasury rebates](../media/81d801e2-42a3-4477-b347-02ff7ba75f5d.jpg)
-A user would 'purchase' RICH tokens through the rebate contract at a discount to the current market rate using any of the available whitelisted Pulsechain assets. These RICH tokens then vest over a 3 day period linearly to the user.
+A user would 'purchase' RICH tokens through the rebate contract at a discount to the current market rate using any of the available whitelisted Pulsechain assets. These RICH tokens then vest over a 2 day period linearly to the user.
 
 The treasury gains control of the deposited Pulsechain asset and puts it to work in the protocol treasury. 
 
